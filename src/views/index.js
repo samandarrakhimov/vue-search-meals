@@ -1,0 +1,6 @@
+export { default as Indgredients } from './Indgredients.vue'
+export { default as MealByDetails } from './MealByDetails.vue'
+export { default as MealByIngredient }  from './MealByIngredient.vue'
+export { default as MealsByName } from './MealsByName.vue'
+export { default as MealLetter } from './MealLetter.vue'
+export { default as HomeView } from './HomeView.vue'
